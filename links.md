@@ -1,5 +1,3 @@
-text/markdown; charset=UTF-8
-
 Links
 -----
 
