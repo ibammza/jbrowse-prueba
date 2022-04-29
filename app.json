@@ -1,0 +1,6 @@
+{
+  "name": "Node.js jbrowse prueba",
+  "description": "A basic Node.js API using Express and PostgreSQL",
+  "repository": "https://github.com/ibammza/publicaciones",
+  "keywords": ["node", "express"]
+}
